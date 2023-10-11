@@ -1,3 +1,10 @@
 from django.contrib import admin
+from task_manager.models import Task
 
-# Register your models here.
+
+class TaskAdmin(admin.ModelAdmin):
+    class Meta:
+        model = Task
+
+
+admin.site.register(Task, TaskAdmin)
