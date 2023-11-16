@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto simples que utiliza Django com GraphQL para gerenciar tarefas. Projetado para ajudar a consolidar o conhecimento em GraphQL, do curso **Comunicação entre Sistemas**.
+Este é um projeto simples que utiliza Django com GraphQL para gerenciar tarefas. Projetado para ajudar a consolidar o conhecimento em GraphQL, do curso **Comunicação entre Sistemas** do Full Cycle.
 
 ## Funcionalidades
 
